@@ -32,6 +32,3 @@ function high(x) {
   return arr[hiIndex]
 }
 
-
-
-high(test);
